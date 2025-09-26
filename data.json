@@ -6,7 +6,7 @@
     "status": "Open",
     "priority": "High Priority",
     "assignee": "John Smith",
-    "date": "2024-01-15"
+    "date": "2024/01/15"
   },
   {
     "id": "#1002",
@@ -15,7 +15,7 @@
     "status": "Open",
     "priority": "High Priority",
     "assignee": "Sarah Johnson",
-    "date": "2024-01-16"
+    "date": "2024/01/16"
   },
   {
     "id": "#1003",
@@ -24,7 +24,7 @@
     "status": "In-Progress",
     "priority": "Medium Priority",
     "assignee": "Michael Brown",
-    "date": "2024-01-17"
+    "date": "2024/01/17"
   },
   {
     "id": "#1004",
@@ -33,7 +33,7 @@
     "status": "Open",
     "priority": "Low Priority",
     "assignee": "Emily Davis",
-    "date": "2024-01-18"
+    "date": "2024/01/18"
   },
   {
     "id": "#1005",
@@ -42,7 +42,7 @@
     "status": "Open",
     "priority": "High Priority",
     "assignee": "David Wilson",
-    "date": "2024-01-19"
+    "date": "2024/01/19"
   },
   {
     "id": "#1006",
@@ -51,7 +51,7 @@
     "status": "In-Progress",
     "priority": "Medium Priority",
     "assignee": "Sophia Taylor",
-    "date": "2024-01-20"
+    "date": "2024/01/20"
   },
   {
     "id": "#1007",
@@ -60,7 +60,7 @@
     "status": "Open",
     "priority": "High Priority",
     "assignee": "James Anderson",
-    "date": "2024-01-21"
+    "date": "2024/01/21"
   },
   {
     "id": "#1008",
@@ -69,7 +69,7 @@
     "status": "Open",
     "priority": "Low Priority",
     "assignee": "Olivia Martinez",
-    "date": "2024-01-22"
+    "date": "2024/01/22"
   },
   {
     "id": "#1009",
@@ -78,7 +78,7 @@
     "status": "In-Progress",
     "priority": "Medium Priority",
     "assignee": "Liam Thomas",
-    "date": "2024-01-17"
+    "date": "2024/01/17"
   },
   {
     "id": "#1010",
@@ -87,6 +87,6 @@
     "status": "Open",
     "priority": "Medium Priority",
     "assignee": "Isabella Garcia",
-    "date": "2024-01-24"
+    "date": "2024/01/24"
   }
 ]
